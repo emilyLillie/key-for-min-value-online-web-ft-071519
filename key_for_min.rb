@@ -22,4 +22,4 @@ def key_for_min_value(name_hash)
   end 
   current_key_assoc_w_min_val 
 end
-#current minval = 0. compare that to first value. if that value < currentmin, it becomes current min. loop to end. print key assoc with currentmin
+#current minval = nil. compare that to first value. if that value < currentmin, it becomes current min. loop to end. print key assoc with currentmin
